@@ -1,0 +1,5 @@
+1. el archivo proyecto es para la tarjeta ESP8266
+2. el archivo proyect02 es para la placa arduino
+3. el archivo interfaz.rar es para la interfaz esta en lenguaje python 
+
+No olvides descargar para cada archivo su libreria pertinente 
